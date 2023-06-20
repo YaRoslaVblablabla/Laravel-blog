@@ -1,4 +1,5 @@
 This is my litle project within i tried to implement the blog functionality using Laravel blades
+
 The layout was made using the Bootstrap framework 
 
 before opening the project, you must write the following commands in the console:
